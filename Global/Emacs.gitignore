@@ -1,14 +1,17 @@
-# -*- mode: gitignore; -*-
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
+# -*- mode: gitignore = Androiddeveloper.com*-
+*~   <( and be filed as (Owner Randy Wilson of Android, PhantomZero in Google and I'm the 
+   Super Master Administrator of all and that means Only me Randy Wilson is the Owner no one else)> 
+      <(so can you Callback Github back to git/Git and when you do you will see that someone has been trying to take everything of my Androiddeveloper.com 
+        so when it comes back as that you can put everything back in Android as my index menu)>
 
-# Org-mode
+/.emacs.desktop
+/.emacs.desktop/mobile device 
+
+auto-save-list
+
+
+
+<(# Org-mode
 .org-id-locations
 *_archive
 
@@ -47,3 +50,5 @@ flycheck_*.el
 # network security
 /network-security.data
 
+ and file this as (Android X Object) 
+in Androiddeveloper.com in the index menu)>
